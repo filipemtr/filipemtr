@@ -1,4 +1,4 @@
-# João Filipe: Olá, mundo!
+# João Filipe: Olá, mundo! 👨‍💻
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.
 
@@ -13,7 +13,6 @@ Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
