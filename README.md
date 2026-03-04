@@ -1,14 +1,8 @@
-# João Filipe
+# João Filipe: Olá, mundo!
 
-- Estudante de Análise e Desenvolvimento de Sistemas  
-Foco em Engenharia de Dados | ETL | Data Pipelines | Data Analysis  
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de ADS com foco em Engenharia de Dados com interesse em construção de pipelines ETL, automação de fluxos de dados e modelagem relacional.  
-
+Tenho forte interesse em construção de pipelines ETL, automação de fluxos de dados, modelagem relacional, Cloud e Big Data!
 Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados, e viso boas práticas para transformar dados brutos em informações estruturadas.
 
 ---
