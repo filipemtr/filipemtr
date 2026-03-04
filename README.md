@@ -38,28 +38,12 @@ Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados
 
 ## 📚 Atualmente estudando
 
-- Engenharia de Dados
 - Apache Spark para processamento distribuído
 - Modelagem de Dados
 - SQL avançado
 - Orquestração com Apache Airflow
 - Fundamentos de Cloud Computing (AWS, Azure)
 - Análise exploratória de dados
-
----
-
-## 📌 Objetivo Profissional
-
-🎯 Estágio em Engenharia de Dados  
-
-Buscando aplicar conhecimentos em:
-- Construção de Data Pipelines
-- Processos ETL/ELT
-- Manipulação e limpeza de dados
-- Modelagem relacional
-- Processamento distribuído com Spark
-- Análise exploratória de dados
-- Automação de workflows
 
 ---
 
