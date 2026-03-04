@@ -1,97 +1,87 @@
-👨‍💻 João Filipe
-<div align="center">
+# João Filipe
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-📊 Foco em Engenharia de Dados
-🚀 Em busca de estágio na área de Dados
-💡 Interesse em Software & Backend
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Foco em Engenharia de Dados | ETL | Data Pipelines | Data Analysis  
 
-<br>
+---
 
+## 🚀 Sobre mim
 
+Sou estudante de ADS com foco em Engenharia de Dados com interesse em construção de pipelines ETL, automação de fluxos de dados e modelagem relacional.  
 
+Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados, aplicando boas práticas para transformar dados brutos em informações estruturadas.
 
-</div>
-🚀 Sobre mim
+---
 
-Sou estudante de ADS com foco em transformar dados em decisões inteligentes.
-Atualmente estou estudando para ter uma base sólida em:
+## 🛠️ Tech Stack
 
-🐍 Programação com Python
+### 👨‍💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🗄 Modelagem e consultas SQL
+### 🗄️ Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔄 Processos de ETL
+### ⚙️ Engenharia de Dados
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Relational-success?style=for-the-badge)
 
-🔗 APIs REST
+### ☁️ Cloud
+![Cloud](https://img.shields.io/badge/Cloud-Computing-informational?style=for-the-badge)
 
-⚙️ Pipelines de Dados
+### 📊 Análise de Dados
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Exploratory-blueviolet?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preparation-important?style=for-the-badge)
 
-☁️ Fundamentos de Cloud & Big Data
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Meu objetivo é atuar na área de Engenharia de Dados, contribuindo para soluções escaláveis, organizadas e eficientes.
+---
 
-🛠️ Tecnologias & Ferramentas
-💻 Linguagens
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark&hide_border=true)
 
-🗄 Banco de Dados
+---
 
+## 📚 Atualmente estudando
 
+- Engenharia de Dados
+- Apache Spark para processamento distribuído
+- Modelagem de Dados
+- SQL avançado
+- Orquestração com Apache Airflow
+- Fundamentos de Cloud Computing (AWS, Azure)
+- Análise exploratória de dados
 
+---
 
-📊 Dados & Análise
+## 📌 Objetivo Profissional
 
+🎯 Estágio em Engenharia de Dados  
 
+Buscando aplicar conhecimentos em:
+- Construção de Data Pipelines
+- Processos ETL/ELT
+- Manipulação e limpeza de dados
+- Modelagem relacional
+- Processamento distribuído com Spark
+- Análise exploratória de dados
+- Automação de workflows
 
+---
 
+## 🌎 Contato
 
-
-
-
-☁️ Cloud & Big Data
-
-
-
-
-
-
-
-
-🔧 Ferramentas
-
-
-
-
-📂 Projetos em destaque
-
-🚧 Em breve:
-
- - Projetos de ETL
- - Análise Exploratória de Dados
- - Construção de Pipelines
- -  Objetivo Profissional
-
-Busco oportunidade como Estagiário em Engenharia de Dados, podendo contribuir com:
-
-✔ Construção de pipelines
-✔ Organização e limpeza de dados
-✔ Modelagem de banco de dados
-✔ Apoio em análises e dashboards
-
-📫 Contato
-
-📎 LinkedIn:
-https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/
-✉️ Email:
-filipemtr11@gmail.com
-
-📁 Portfólio: Em desenvolvimento
-
-<div align="center">
-
-✨ Seja bem-vindo ao meu ambiente tech! ✨
-
-</div>
+📧 Email: filipemtr11@gmail.com  
+📍 Caruaru - PE  
+🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/
+---
