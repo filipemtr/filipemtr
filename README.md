@@ -1,7 +1,7 @@
 # João Filipe
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Foco em Engenharia de Dados | ETL | Data Pipelines | Data Analysis  
+- Estudante de Análise e Desenvolvimento de Sistemas  
+Foco em Engenharia de Dados | ETL | Data Pipelines | Data Analysis  
 
 ---
 
@@ -9,7 +9,7 @@
 
 Sou estudante de ADS com foco em Engenharia de Dados com interesse em construção de pipelines ETL, automação de fluxos de dados e modelagem relacional.  
 
-Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados, aplicando boas práticas para transformar dados brutos em informações estruturadas.
+Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados, e viso boas práticas para transformar dados brutos em informações estruturadas.
 
 ---
 
@@ -39,16 +39,6 @@ Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark&hide_border=true)
 
 ---
 
@@ -82,6 +72,5 @@ Buscando aplicar conhecimentos em:
 ## 🌎 Contato
 
 📧 Email: filipemtr11@gmail.com  
-📍 Caruaru - PE  
 🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/
 ---
