@@ -1,4 +1,4 @@
-![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/0fc268f4-3608-4516-af04-1d4d8c03977f)![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/e4b9b6b1-af5c-487e-8322-57fd7cc2211b)# João Filipe: Olá, mundo! 👨‍💻
+# João Filipe: Olá, mundo! 👨‍💻
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.
 
