@@ -1,10 +1,7 @@
 # João Filipe: Olá, mundo! 👨‍💻
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.
-
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/763ab167-3759-4751-adb3-7e59b914e0fd)
 
----
 
 ## Tech Stack
 
@@ -31,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia d
 - Orquestração com Apache Airflow
 - Fundamentos de Cloud Computing (AWS, Azure)
 - Análise exploratória de dados
--    ![ezgif-569ae9d2fe2b1ca8](https://github.com/user-attachments/assets/1723dda3-ef21-4b51-bd83-861582b4e37b)
+     ![ezgif-569ae9d2fe2b1ca8](https://github.com/user-attachments/assets/1723dda3-ef21-4b51-bd83-861582b4e37b)
          
 
 
