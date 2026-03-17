@@ -24,8 +24,6 @@
   <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=FERRAMENTAS&secondaryLabel=abaixo&primaryBGColor=%23000000&primaryTextColor=%23FFFFFF&secondaryBGColor=%23707070&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=docker&primaryIconColor=%23ffffff&primaryIconSize=16&primaryIconPosition=left" />
 </p>
 
-<h2 align="center">Tech Tools</h2>
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/white" width="45">
   <img src="https://cdn.simpleicons.org/numpy/white" width="45">
