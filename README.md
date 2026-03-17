@@ -55,10 +55,10 @@ Análise exploratória de dados <br>
 
 <p align="center">
   <a href="mailto:filipemtr11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
