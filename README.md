@@ -32,13 +32,13 @@
 
 <h2 align="center">📚 Estudos atuais</h2>
 
-<p align="center">
-⚡ Apache Spark para processamento distribuído <br>
-🗄️ MySQL, PostgreSQL, Oracle <br>
-🧠 Modelagem de Dados <br>
-🔄 Orquestração com Airflow <br>
-☁️ Cloud (AWS, Azure) <br>
-📊 Análise exploratória de dados
+<p align="left">
+Apache Spark para processamento distribuído <br>
+MySQL, PostgreSQL, Oracle <br>
+Modelagem de Dados <br>
+Orquestração com Airflow <br>
+Cloud (AWS, Azure) <br>
+Análise exploratória de dados <br>
 </p>
 
 ---
