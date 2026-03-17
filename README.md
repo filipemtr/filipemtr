@@ -30,8 +30,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia d
 - SQL avançado
 - Orquestração com Apache Airflow
 - Fundamentos de Cloud Computing (AWS, Azure)
-- Análise exploratória de dados
-![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/21b22a41-657a-4828-bef7-209db1116595)
+- Análise exploratória de dados                       ![ezgif-569ae9d2fe2b1ca8](https://github.com/user-attachments/assets/1723dda3-ef21-4b51-bd83-861582b4e37b)
+         
 
 
 ---
