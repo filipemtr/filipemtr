@@ -2,16 +2,16 @@
   <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=FILIPE&secondaryLabel=MONTEIRO&primaryBGColor=%23000000&primaryTextColor=%23FFFFFF&secondaryBGColor=%23525252&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase" />
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B"
-    style="margin-right: -20px;"
-  />
-  <img 
-    src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"
-    style="margin-left: -20px;"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" height="120"/>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" height="120"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Data Engineering | Python | SQL | Cloud</b>
