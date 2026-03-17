@@ -1,7 +1,9 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN2aXZvdnFqZG9qenBqYWxwaHZkOXV0b3U4Y3JncTRkbXcyOHRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="500" height="200">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B)](https://git.io/typing-svg)
+  ![Uploading Computer Pc GIF.gif…]()
+
 </p>
 
 <p align="center">
