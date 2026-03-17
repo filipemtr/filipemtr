@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" alt="Typing SVG" /></a>
-  ![Computer Pc GIF](https://github.com/user-attachments/assets/8030aeb2-8e3e-4a6c-9157-fe87670e21c9)
+  ![ComputerGIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanN5ZHNibzJxbm4wbXp4cmxwbDFobm1pNnhkbnRkdjc3cjNxbzk3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif)
 
 
 </p>
@@ -11,7 +11,7 @@
  Data Engineering | Python | SQL | Cloud
 </p>
 
----
+
 
 <h1 align="center">Tech Stack:</h1>
 
