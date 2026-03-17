@@ -30,9 +30,6 @@
   <img src="https://cdn.simpleicons.org/docker/white" width="45">
   <img src="https://cdn.simpleicons.org/mysql/white" width="45">
   <img src="https://cdn.simpleicons.org/postgresql/white" width="45">
-  <img src="https://cdn.simpleicons.org/oracle/white" width="45">
-  <img src="https://cdn.simpleicons.org/microsoftazure/white" width="45">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/white" width="45">
   <img src="https://cdn.simpleicons.org/ubuntu/white" width="45">
 </p>
 
