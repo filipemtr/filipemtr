@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=FILIPE&secondaryLabel=MONTEIRO&primaryBGColor=%23000000&primaryTextColor=%23FFFFFF&secondaryBGColor=%23525252&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase" />
+  Filipe Monteiro: Hello World!
 </h1>
 
 <p align="center">
