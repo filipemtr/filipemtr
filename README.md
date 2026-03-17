@@ -1,6 +1,7 @@
 # João Filipe: Olá, mundo! 👨‍💻
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/763ab167-3759-4751-adb3-7e59b914e0fd)
+![ezgif-52356aa2054b9011](https://github.com/user-attachments/assets/99956e15-0104-450c-a2c8-cd4327dd17ae)
+
 
 
 ## Tech Stack
@@ -28,6 +29,7 @@
 - Orquestração com Apache Airflow
 - Fundamentos de Cloud Computing (AWS, Azure)
 - Análise exploratória de dados
+
      ![ezgif-569ae9d2fe2b1ca8](https://github.com/user-attachments/assets/1723dda3-ef21-4b51-bd83-861582b4e37b)
          
 
