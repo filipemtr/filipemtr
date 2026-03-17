@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" />
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" />
 </p>
 
 <p align="center">
