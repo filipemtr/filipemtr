@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <p><i>"Em algum lugar pra relaxar eu vou pedir para os anjos cantarem por mim."</i></p>
+  <i>"Eu vou pedir para os anjos cantarem por mim."</i>
 </p>
 
 ---
