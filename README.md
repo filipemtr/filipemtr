@@ -5,11 +5,11 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B"
-    height="120"
+    style="margin-right: -20px;"
   />
   <img 
     src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"
-    height="120"
+    style="margin-left: -20px;"
   />
 </p>
 
