@@ -20,18 +20,20 @@
   <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=FERRAMENTAS&secondaryLabel=abaixo&primaryBGColor=%23000000&primaryTextColor=%23FFFFFF&secondaryBGColor=%23707070&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=docker&primaryIconColor=%23ffffff&primaryIconSize=16&primaryIconPosition=left" />
 </p>
 
+<h2 align="center">Tech Tools</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" style="filter: grayscale(100%) brightness(0) invert(1);">
+  <img src="https://cdn.simpleicons.org/python/white" width="45">
+  <img src="https://cdn.simpleicons.org/numpy/white" width="45">
+  <img src="https://cdn.simpleicons.org/pandas/white" width="45">
+  <img src="https://cdn.simpleicons.org/apacheairflow/white" width="45">
+  <img src="https://cdn.simpleicons.org/docker/white" width="45">
+  <img src="https://cdn.simpleicons.org/mysql/white" width="45">
+  <img src="https://cdn.simpleicons.org/postgresql/white" width="45">
+  <img src="https://cdn.simpleicons.org/oracle/white" width="45">
+  <img src="https://cdn.simpleicons.org/microsoftazure/white" width="45">
+  <img src="https://cdn.simpleicons.org/amazonwebservices/white" width="45">
+  <img src="https://cdn.simpleicons.org/ubuntu/white" width="45">
 </p>
 
 
