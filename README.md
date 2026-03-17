@@ -10,7 +10,7 @@
 
 ---
 
-## Tech Stack
+<h1 align="center">Tech Stack:</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50">
@@ -29,14 +29,16 @@
 
 ---
 
-## Estudos atuais:
+<h1 align="center">Estudos atuais:</h1>
 
-- ⚡ Apache Spark para processamento distribuído  
-- 🧠 Modelagem de Dados  
-- 🗄️ SQL avançado  
-- 🔄 Orquestração com Airflow  
-- ☁️ Cloud (AWS, Azure)  
-- 📊 Análise exploratória de dados  
+<p align="center">
+  - ⚡ Apache Spark para processamento distribuído  
+  - 🧠 Modelagem de Dados  
+  - 🗄️ SQL avançado  
+  - 🔄 Orquestração com Airflow  
+  - ☁️ Cloud (AWS, Azure)  
+  - 📊 Análise exploratória de dados  
+</p>
 
 ---
 
