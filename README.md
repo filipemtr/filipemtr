@@ -6,18 +6,23 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Relational-success?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-informational?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Exploratory-blueviolet?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preparation-important?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![Numpy](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png)
+![Pandas](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png)
+![Selenium](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png)
+
+![PostgreSQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png)
+![MySQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png)
+![Oracle](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png)
+
+![Bash](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png)
+![Docker](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png)
+![Azure](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png)
+![Aws](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png)
+![ApacheSpark](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png)
+![Databricks](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png)
+
+![Ubuntu](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png)
 
 ---
 
