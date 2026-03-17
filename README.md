@@ -1,8 +1,9 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B)](https://git.io/typing-svg)
-  ![Uploading Computer Pc GIF.gif…]()
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" alt="Typing SVG" /></a>
+  ![Computer Pc GIF](https://github.com/user-attachments/assets/8030aeb2-8e3e-4a6c-9157-fe87670e21c9)
+
 
 </p>
 
