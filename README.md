@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN2aXZvdnFqZG9qenBqYWxwaHZkOXV0b3U4Y3JncTRkbXcyOHRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="500" length="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN2aXZvdnFqZG9qenBqYWxwaHZkOXV0b3U4Y3JncTRkbXcyOHRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="500" height="200">
 </p>
 
 <p align="center">
