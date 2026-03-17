@@ -1,16 +1,16 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" />
 </p>
 
 <p align="center">
- Data Engineering | Python | SQL | Cloud
+  <b>Data Engineering | Python | SQL | Cloud</b>
 </p>
 
+---
 
-
-<h1 align="center">Tech Stack:</h1>
+<h2 align="center">Tech Tools</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50">
@@ -29,25 +29,26 @@
 
 ---
 
-<h1 align="center">Estudos atuais:</h1>
+<h2 align="center">📚 Estudos atuais</h2>
 
 <p align="center">
-  <h4 align="center">⚡ Apache Spark para processamento distribuído</h2>
-  <h4 align="center">🗄️ MySQL, PostgreSQL, Oracle  </h2>
-  <h4 align="center">🧠 Modelagem de Dados  </h2>
-  <h4 align="center">🔄 Orquestração com Airflow </h2>
-  <h4 align="center">☁️ Cloud (AWS, Azure)  </h2>
-  <h4 align="center">📊 Análise exploratória de dados </h2>
- 
+⚡ Apache Spark para processamento distribuído <br>
+🗄️ MySQL, PostgreSQL, Oracle <br>
+🧠 Modelagem de Dados <br>
+🔄 Orquestração com Airflow <br>
+☁️ Cloud (AWS, Azure) <br>
+📊 Análise exploratória de dados
 </p>
 
+---
 
-## 🌎 Contato
+<h2 align="center">Contatos</h2>
 
 <p align="center">
   <a href="mailto:filipemtr11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
