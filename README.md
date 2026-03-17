@@ -1,9 +1,8 @@
-# João Filipe: Olá, mundo! 👨‍💻
+![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/0fc268f4-3608-4516-af04-1d4d8c03977f)![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/e4b9b6b1-af5c-487e-8322-57fd7cc2211b)# João Filipe: Olá, mundo! 👨‍💻
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.
 
-Tenho forte interesse em construção de pipelines ETL, automação de fluxos de dados, modelagem relacional, Cloud e Big Data!
-Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados, e viso boas práticas para transformar dados brutos em informações estruturadas.
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/763ab167-3759-4751-adb3-7e59b914e0fd)
 
 ---
 
@@ -32,6 +31,8 @@ Possuo conhecimentos em manipulação, limpeza e análise exploratória de dados
 - Orquestração com Apache Airflow
 - Fundamentos de Cloud Computing (AWS, Azure)
 - Análise exploratória de dados
+![242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e](https://github.com/user-attachments/assets/21b22a41-657a-4828-bef7-209db1116595)
+
 
 ---
 
