@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world!</h1>
+<h1 align="center">João Filipe: Hello World!/h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&color=A1969B&multiline=true&width=435&lines=int+main()+%7B" />
@@ -28,11 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache-airflow.png" width="50">
 </p>
 
----
 
-<h2 align="center">📚 Estudos atuais</h2>
 
-<p align="left">
+<h2 align="center">Estudos atuais</h2>
+
+<p align="center">
 Apache Spark para processamento distribuído <br>
 MySQL, PostgreSQL, Oracle <br>
 Modelagem de Dados <br>
@@ -41,7 +41,7 @@ Cloud (AWS, Azure) <br>
 Análise exploratória de dados <br>
 </p>
 
----
+
 
 <h2 align="center">Contatos</h2>
 
