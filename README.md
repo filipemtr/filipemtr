@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN2aXZvdnFqZG9qenBqYWxwaHZkOXV0b3U4Y3JncTRkbXcyOHRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="500" length="200">
 </p>
 
 <p align="center">
@@ -31,10 +31,6 @@
 
 ## Estudos atuais:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200">
-</p>
-
 - ⚡ Apache Spark para processamento distribuído  
 - 🧠 Modelagem de Dados  
 - 🗄️ SQL avançado  
@@ -47,7 +43,7 @@
 ## 🌎 Contato
 
 <p align="center">
-  <a href="filipemtr11@gmail.com">
+  <a href="mailto:filipemtr11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-f-ab49743b3/">
