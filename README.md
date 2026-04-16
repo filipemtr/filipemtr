@@ -31,11 +31,10 @@
   <img src="https://cdn.simpleicons.org/mysql/white" width="45">
   <img src="https://cdn.simpleicons.org/postgresql/white" width="45">
   <img src="https://cdn.simpleicons.org/ubuntu/white" width="45">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40">
+  <img width="40" height="40" alt="imagem_2024-12-20_111655461-removebg-preview (1)" src="https://github.com/user-attachments/assets/975bcf5f-1be0-40e9-a199-14392d8ec1aa" />
   <img src="https://cdn.simpleicons.org/databricks/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/apachespark/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/mongodb/FFFFFF" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40">
 </p>
 
 
