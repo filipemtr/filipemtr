@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Data Engineering | Python | SQL | Cloud</b>
+  <b>Data Engineering | Python | Databricks | AWS</b>
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@
 
 <p align="center">
 Apache Spark para processamento distribuído <br>
-MySQL, PostgreSQL, Oracle <br>
-Modelagem de Dados <br>
+PostgreSQL, Oracle, Redis, MongoDB <br>
+Modelagem Dimensional <br>
 Orquestração com Airflow <br>
-Cloud (AWS, Azure) <br>
-Análise exploratória de dados <br>
+AWS <br>
+Tableau <br>
 </p>
 
 
