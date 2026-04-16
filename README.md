@@ -31,11 +31,11 @@
   <img src="https://cdn.simpleicons.org/mysql/white" width="45">
   <img src="https://cdn.simpleicons.org/postgresql/white" width="45">
   <img src="https://cdn.simpleicons.org/ubuntu/white" width="45">
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40">
   <img src="https://cdn.simpleicons.org/databricks/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/apachespark/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/mongodb/FFFFFF" height="40">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40">
 </p>
 
 
