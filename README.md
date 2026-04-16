@@ -31,7 +31,7 @@
   <img src="https://cdn.simpleicons.org/mysql/white" width="45">
   <img src="https://cdn.simpleicons.org/postgresql/white" width="45">
   <img src="https://cdn.simpleicons.org/ubuntu/white" width="45">
-  <img width="40" height="40" alt="imagem_2024-12-20_111655461-removebg-preview (1)" src="https://github.com/user-attachments/assets/975bcf5f-1be0-40e9-a199-14392d8ec1aa" />
+  <img width="50" height="50" alt="result_imagem_2024-12-20_111655461-removebg-preview" src="https://github.com/user-attachments/assets/df11e858-c7e4-41b6-8f8b-d08845ed76a7" />
   <img src="https://cdn.simpleicons.org/databricks/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/apachespark/FFFFFF" height="40">
   <img src="https://cdn.simpleicons.org/mongodb/FFFFFF" height="40">
